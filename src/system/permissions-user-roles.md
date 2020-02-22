@@ -36,7 +36,7 @@ To give someone restricted access to the Admin, the first step is to create a ro
     ![User role resources - custom scope]({% link images/images/permissions-role-scope-custom.png %}){: .zoom}
     _Custom Role Scope_
 
-1. Under _Roles Resources_, set **Resource Access** to `Custom`.
+1. Under _Roles Resources_, set **Resource Access** to `Custom`.dhdh
 
 1. In the tree, select the checkbox of each Admin **Resource** that the role can access.
 
